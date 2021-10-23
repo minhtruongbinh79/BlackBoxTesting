@@ -1,5 +1,3 @@
-# UnitTesting
-Homework for Unit Testing
 # Bài toán: Tính chỉ số BMI và đưa ra kết luận
 ## Input:
 * (float) weight: cân nặng (kg) (0 < weight <= 150)
